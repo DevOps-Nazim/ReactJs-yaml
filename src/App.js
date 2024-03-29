@@ -10,14 +10,6 @@ function App() {
           {"Github Actions Tutorial"} - By
           DevOps Pro's
         </p>
-        <a
-          className="App-link"
-          href="#"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn DevOps
-        </a>
       </header>
     </div>
   );
