@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DevOps-Nazim/ReactJs-yaml/static/css/main.073c9b0a.css",
-    "main.js": "/DevOps-Nazim/ReactJs-yaml/static/js/main.ccc3e1ad.js",
-    "static/js/787.dd9a8d66.chunk.js": "/DevOps-Nazim/ReactJs-yaml/static/js/787.dd9a8d66.chunk.js",
-    "static/media/logo.svg": "/DevOps-Nazim/ReactJs-yaml/static/media/logo.16b63f3cde49a58f69098d2ad30bf094.svg",
-    "index.html": "/DevOps-Nazim/ReactJs-yaml/index.html",
-    "main.073c9b0a.css.map": "/DevOps-Nazim/ReactJs-yaml/static/css/main.073c9b0a.css.map",
-    "main.ccc3e1ad.js.map": "/DevOps-Nazim/ReactJs-yaml/static/js/main.ccc3e1ad.js.map",
-    "787.dd9a8d66.chunk.js.map": "/DevOps-Nazim/ReactJs-yaml/static/js/787.dd9a8d66.chunk.js.map"
+    "main.css": "/ReactJs-yaml/static/css/main.073c9b0a.css",
+    "main.js": "/ReactJs-yaml/static/js/main.0e70492c.js",
+    "static/js/787.1315a2c5.chunk.js": "/ReactJs-yaml/static/js/787.1315a2c5.chunk.js",
+    "static/media/logo.svg": "/ReactJs-yaml/static/media/logo.16b63f3cde49a58f69098d2ad30bf094.svg",
+    "index.html": "/ReactJs-yaml/index.html",
+    "main.073c9b0a.css.map": "/ReactJs-yaml/static/css/main.073c9b0a.css.map",
+    "main.0e70492c.js.map": "/ReactJs-yaml/static/js/main.0e70492c.js.map",
+    "787.1315a2c5.chunk.js.map": "/ReactJs-yaml/static/js/787.1315a2c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ccc3e1ad.js"
+    "static/js/main.0e70492c.js"
   ]
 }
