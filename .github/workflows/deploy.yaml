@@ -34,4 +34,5 @@ jobs:
 #        with:
  #         branch: git-pages
   #        folder: build
-        run: aws s3 snyc . s3://demo-s3-labs --delete --acl public-read
+        run: |
+           aws s3 sync .  s3://demo-s3-labs --delete --acl public-read
